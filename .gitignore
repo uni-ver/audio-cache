@@ -1,0 +1,36 @@
+# 忽略所有模型参数文件 (根据你的实际文件后缀进行调整)
+*.safetensors
+*.bin
+*.ckpt
+*.pth
+*.pt
+
+# 忽略包含大文件的文件夹 (例如)
+**/models/
+**/checkpoints/
+**/data/
+**/weights
+
+# 忽略Python虚拟环境
+venv/
+env/
+.venv/
+
+# 忽略IDE配置文件
+.vscode/
+.idea/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志和缓存文件
+**/__pycache__/
+*.pyc
+*.log
+
+Wan2.2/Wan2.2-*
+Wan2.2/Exps
+Wan2.2/s2v-14B_*
+Wan2.2/baseline*
+
