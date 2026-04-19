@@ -29,8 +29,26 @@ Thumbs.db
 *.pyc
 *.log
 
-Wan2.2/Wan2.2-*
-Wan2.2/Exps
-Wan2.2/s2v-14B_*
-Wan2.2/baseline*
+Wan2.2_echocache/Wan2.2-*
+Wan2.2_echocache/Exps
+Wan2.2_echocache/s2v-14B_*
+Wan2.2_echocache/baseline*
+Wan2.2_echocache/run_eval
+Wan2.2_echocache/Wan-s2v-teacache.py
+LongCat-Video_echocache/run_eval
+LongCat-Video_echocache/outputs_avatar_single
 
+case
+HDTF_selected
+log
+LongCat-Video_ToCa
+LongCat-Video-at2v-magcache
+LongCat-Video-at2v-taylorseer
+LongCat-Video-magcache
+LongCat-Video-taylorseer
+LongCat-Video-ToCa_3
+syncnet_python
+Wan2.2-magcache
+Wan2.2-taylorseer
+eval_*
+evaluate_*

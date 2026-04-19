@@ -1,9 +1,0 @@
-__pycache__/
-.DS_Store
-.vscode*
-tmp_examples*
-new_checkpoint*
-batch_test*
-nohup*
-Wan2.2-*
-Exps/exp_14
